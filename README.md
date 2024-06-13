@@ -10,7 +10,7 @@ This project is for educational purposes only.
 
 Site published at: https://github.com/Povilas88/home-navigation-exploration
 
-Design: [Eduhouse](https://dribbble.com/shots/13751737-Home-Navigation-Exploration/attachments/5357660?mode=media)
+Design: [Home - Navigation Exploration](https://dribbble.com/shots/13751737-Home-Navigation-Exploration/attachments/5357660?mode=media)
 
 ## 🎯 Project features/goals
 
