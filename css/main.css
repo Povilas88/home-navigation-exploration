@@ -1,0 +1,40 @@
+main {
+    background-color: #F7F7F7;
+    overflow:visible;
+}
+
+h1{
+    margin: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2{
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+}
+
+p{
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    color: #8A8A8A;
+}
+
+.block {
+    display: block;
+    float: left;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    margin: 30px;
+    max-height: 300px;
+    max-width: 300px;
+    min-height: 300px;
+    min-width: 300px;
+}
+
+main img{
+    width: 40px;
+    margin: 20px;
+    float: right;
+}
