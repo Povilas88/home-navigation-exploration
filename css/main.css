@@ -5,26 +5,34 @@ main {
 
 h1{
     margin: 30px;
+    margin-top: 60px;
+    margin-bottom: 60px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 h2{
     display: inline-block;
     height: 100%;
-    width: 100%;
+    margin-top: 65px;
+    margin-left: 20px;
 }
 
 p{
     display: inline-block;
     height: 100%;
-    width: 100%;
+    width: 80%;
+    margin-left: 20px;
+    margin-top: 0;
+    line-height: 1.5em;
     color: #8A8A8A;
+    font-size:larger;
 }
 
 .block {
     display: block;
     float: left;
     background-color: #FFFFFF;
+    position: relative;
     border-radius: 10px;
     margin: 30px;
     max-height: 300px;
@@ -36,5 +44,20 @@ p{
 main img{
     width: 40px;
     margin: 20px;
-    float: right;
+    position: absolute;
+    right: 0px;
+}
+
+main  section  img{
+    width: 40%;
+    bottom: 0;
+    right: 0;
+    margin: 0;
+}
+
+main section span img{
+    width: 20px;
+    bottom: 0;
+    left: 0;
+    margin: 25px;
 }
