@@ -6,4 +6,5 @@ body {
     margin-left: 50px;
     min-height: 100vh;
     background-color: #BEDBD6;
+    overflow: visible;
 }
