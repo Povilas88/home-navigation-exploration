@@ -44,7 +44,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/Povilas88/home-navigation-exploration
+    git clone https://github.com/Povilas88/home-navigation-exploration.git
     ```
 2. Install NPM packages
     ```sh
